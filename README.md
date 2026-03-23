@@ -49,7 +49,7 @@ To capture and analyze network packets in order to detect unusual patterns such 
 ## Conclusion
 The project demonstrates how Wireshark can be used by SOC analysts to monitor network traffic, identify suspicious patterns, and understand secure communication protocols.
 
-## 📷 Screenshots
+## Screenshots
 ![TCP SYN Analysis png](https://github.com/user-attachments/assets/01c28fed-a023-47d9-ba8c-9b522f6d85cd)
 ![DNS Analysis png](https://github.com/user-attachments/assets/c54cb9be-6d4f-4581-96e7-923f52efbf24)
 ![DNS Analysis2 png](https://github.com/user-attachments/assets/b7a0d059-ce2d-403a-97ad-81c05f065bc9)
